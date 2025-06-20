@@ -8,7 +8,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/Tamunotekena/File_Integrity_Monitoring_Lab/tree/main)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Certifications:</h2>
 
   - [ISC2 Certified in Cybersecurity](https://my.isc2.org/digitalcert)
   
