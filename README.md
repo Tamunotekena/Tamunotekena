@@ -4,7 +4,7 @@
 
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/Tamunotekena/Active-Directory-Bulk-User-Creation/tree/main)
   - [FIM (File Integrity Monitor)](https://github.com/Tamunotekena/File_Integrity_Monitoring_Lab/tree/main)
 
 
