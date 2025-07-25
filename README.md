@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+- <b>Azure(Microsoft Sentinel)<b>
+  -[HoneyPot and SIEM Monitoring](https://github.com/Tamunotekena/Active-Directory-Bulk-User-Creation/tree/main)
+  
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Tamunotekena/Active-Directory-Bulk-User-Creation/tree/main)
   - [FIM (File Integrity Monitor)](https://github.com/Tamunotekena/File_Integrity_Monitoring_Lab/tree/main)
